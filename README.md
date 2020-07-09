@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a Senior Front-end Designer at Cloud Four where I design web interfaces, mostly with code.
+
+- 🔭 I’m currently working on design systems
+- 🌱 I’m currently learning everything I can about food, food politics and nutrition
+
 <!--
 **derekshirk/derekshirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
