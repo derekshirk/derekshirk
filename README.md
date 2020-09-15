@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Front-end and visual designer. I design web interfaces, mostly with code but I'm comfortable with all aspects of design process from concept to execution across a multitude of mediums. I'm looking for work!
+I'm a Front-end and visual designer. I design web interfaces, mostly with code but I'm comfortable with all aspects of the design process from concept to execution — across a multitude of mediums. I'm looking for work!
 
 ## My personal website
 
